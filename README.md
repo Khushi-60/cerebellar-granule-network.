@@ -45,6 +45,7 @@ Running the script produces a three-panel figure:
 - **Population firing rate** — smoothed estimate of network activity over time
 - **Sample voltage traces** — membrane potential of 5 individual granule cells, showing the integrate-and-fire dynamics
 
+<img width="1634" height="1181" alt="brian2_granule_network" src="https://github.com/user-attachments/assets/ada2c983-05e7-41dc-8d08-e2a52b86dcb9" />
 ---
 
 ## Network Parameters
@@ -80,4 +81,4 @@ Requires Python 3.8+. Brian2 also requires a C compiler for its code generation 
 - Chadderton, P., Margrie, T.W., & Häusser, M. (2004). Integration of quanta in cerebellar granule cells during sensory processing. *Nature*, 428, 856–860.
 - Eccles, J.C., Ito, M., & Szentágothai, J. (1967). *The Cerebellum as a Neuronal Machine*. Springer.
 - Marr, D. (1969). A theory of cerebellar cortex. *Journal of Physiology*, 202(2), 437–470.
-- Zador, A.M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. *Nature Communications*, 10, 3770. [doi.org/10.1038/s41467-019-11786-6](https://doi.org/10.1038/s41467-019-11786-6)<img width="1634" height="1181" alt="brian2_granule_network" src="https://github.com/user-attachments/assets/ada2c983-05e7-41dc-8d08-e2a52b86dcb9" />
+- Zador, A.M. (2019). A critique of pure learning and what artificial neural networks can learn from animal brains. *Nature Communications*, 10, 3770. [doi.org/10.1038/s41467-019-11786-6](https://doi.org/10.1038/s41467-019-11786-6)
