@@ -4,8 +4,6 @@ A population-level spiking neural network simulation of a simplified cerebellar 
 
 A population-level spiking neural network simulation of a simplified cerebellar granule cell layer, built with [Brian2](https://brian2.readthedocs.io/) — the standard Python simulator for spiking neural networks in computational neuroscience.
 
-Written as part of background preparation for PhD research in NeuroAI and Computational Neuroscience, exploring whether biological sparsity principles can be recovered in artificial networks performing real-time physical prediction.
-
 ---
 
 ## Biological Motivation
